@@ -21,7 +21,6 @@ There are five different types of coupons: less expensive restaurants (under $20
 - Take out coupons has the highest accepted rate 73.5%
 - One-day coupons have a higer acceptance rate than 2-hour coupons
 - Low-cost restaurant coupons has a higher acceptance rate than expensive restaurants
-- 
 
 # Summary
 In general, the average coupon acceptance ratio is low while customers are driving in different scenarios. However, we see coupon acceptance ratio increases to more than 70% when we target a special group of customers. For instance, customers who visited bars more often and age under 30 have a higher ratio to accept bar coupons. This indicates that we should associate coupon types with customer shopping bahaviors and their characteristics in order to improve acceptance ratio.
